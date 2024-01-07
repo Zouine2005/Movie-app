@@ -85,6 +85,7 @@ const Movies = () => {
             fontSize={55}
             cursor={"pointer"}
             onClick={() => setTrailer(true)}
+            
           />
         </div>
       </div>
