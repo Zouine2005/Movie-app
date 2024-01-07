@@ -12,7 +12,7 @@ const ChatBot = () => {
     e.preventDefault();
  
     try {
-      const apiKey = "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"; // Replace with your OpenAI API key
+      const apiKey = "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"; // Replace with your OpenAI API key
       const model = "text-davinci-003";
       const maxTokens = 512;
       const temperature = 0;
